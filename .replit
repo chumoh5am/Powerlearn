@@ -8,7 +8,7 @@ language = "dart-pub"
 packageSearch = true
 
 [nix]
-channel = "stable-22_05"
+channel = "stable-22_11"
 
 [languages]
 
